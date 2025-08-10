@@ -41,8 +41,4 @@ I craft solutions that work, blending technology with real-world needs. While I 
 ---
 
 ### 🎯 **Builder's Philosophy**  
-> *"You don't need to be an expert coder to create value – just someone who can connect the right tools to solve problems."*
-
----
-
-![Metrics](https://github.com/HarshSharma122/HarshSharma122/blob/main/github-metrics.svg)
+> *"You don't need to be an expert coder to create value – just someone who can connect the right tools to solve problems."
